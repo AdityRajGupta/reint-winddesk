@@ -17,7 +17,7 @@ purchase decisions in January 2026 only. No demand series exists in this
 scope, so panels that would need demand ("left to buy", "safety buffer")
 honestly show "–" instead of invented numbers.
 
-**Live app:** _(link added when deployed on Vercel)_
+**Live app:** https://reint-winddesk.vercel.app
 
 **AI tools disclosure (required by the brief):** this application was
 built with AI assistance (Muse, including subagents for the backend and
